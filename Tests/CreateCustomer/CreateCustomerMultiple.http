@@ -1,0 +1,10 @@
+Post https://localhost:5001/api/AddCustomer
+Content-Type: application/json
+x-test-country-code: 1
+x-test-country-code1: 2
+
+{
+    "CustomerId": 12,
+    "StoreId": "1",
+    "Email": "jskpreet@gmail.com" 
+}
